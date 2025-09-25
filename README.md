@@ -10,8 +10,7 @@ My personal config for Arch Linux. I was inspired by the work of Mon4sm [monasm-
 
 ## Screenshots
 
-![](./screenshots/screenshot1.jpg)
+![](./screenshots/screen1.jpg)
 
-![](./screenshots/screenshot2.jpg)
+![](./screenshots/screen2.jpg)
 
-![](./screenshots/screenshot3.jpg)
